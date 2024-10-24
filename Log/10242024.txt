@@ -1,0 +1,162 @@
+**********2024-10-24T12:21:28.756Z**********
+Path = /api/user/login
+{"response":{"message":"Cannot POST /api/user/login","error":"Not Found","statusCode":404},"status":404,"options":{},"message":"Cannot POST /api/user/login","name":"NotFoundException"}
+**********2024-10-24T12:21:28.890Z**********
+Path = /api/user/getUsers
+{"response":{"message":"Unauthorized","statusCode":401},"status":401,"options":{},"message":"Unauthorized","name":"UnauthorizedException"}
+**********2024-10-24T12:22:03.139Z**********
+Path = /api/user/login
+{"response":{"message":"Cannot POST /api/user/login","error":"Not Found","statusCode":404},"status":404,"options":{},"message":"Cannot POST /api/user/login","name":"NotFoundException"}
+**********2024-10-24T12:22:03.168Z**********
+Path = /api/user/getUsers
+{"response":{"message":"Unauthorized","statusCode":401},"status":401,"options":{},"message":"Unauthorized","name":"UnauthorizedException"}
+**********2024-10-24T12:22:27.827Z**********
+Path = /api/user/getUsers
+{"response":{"message":"Unauthorized","statusCode":401},"status":401,"options":{},"message":"Unauthorized","name":"UnauthorizedException"}
+**********2024-10-24T12:23:15.178Z**********
+Path = /api/user/createUser
+{"response":{"message":"Unauthorized","statusCode":401},"status":401,"options":{},"message":"Unauthorized","name":"UnauthorizedException"}
+**********2024-10-24T12:26:56.128Z**********
+Path = /api/auth/register
+{"response":{"message":["name should not be empty","password must be longer than or equal to 8 characters"],"error":"Bad Request","statusCode":400},"status":400,"options":{},"message":"Bad Request Exception","name":"BadRequestException"}
+**********2024-10-24T12:29:08.877Z**********
+Path = /api/auth/register
+{"response":{"message":["name should not be empty","password must be longer than or equal to 8 characters"],"error":"Bad Request","statusCode":400},"status":400,"options":{},"message":"Bad Request Exception","name":"BadRequestException"}
+**********2024-10-24T12:30:52.759Z**********
+Path = /api/auth/register
+{"response":{"message":["password must be longer than or equal to 8 characters"],"error":"Bad Request","statusCode":400},"status":400,"options":{},"message":"Bad Request Exception","name":"BadRequestException"}
+**********2024-10-24T12:44:59.501Z**********
+Path = /api/auth/login
+{"response":{"message":["username must be an email","username should not be empty","username must be longer than or equal to 6 characters"],"error":"Bad Request","statusCode":400},"status":400,"options":{},"message":"Bad Request Exception","name":"BadRequestException"}
+**********2024-10-24T12:44:59.787Z**********
+Path = /api/user/getUsers
+{"response":{"message":"Unauthorized","statusCode":401},"status":401,"options":{},"message":"Unauthorized","name":"UnauthorizedException"}
+**********2024-10-24T12:46:43.379Z**********
+Path = /api/user/getUsers
+{"response":{"message":"Unauthorized","statusCode":401},"status":401,"options":{},"message":"Unauthorized","name":"UnauthorizedException"}
+**********2024-10-24T12:46:48.280Z**********
+Path = /api/user/getUsers
+{"response":{"message":"Unauthorized","statusCode":401},"status":401,"options":{},"message":"Unauthorized","name":"UnauthorizedException"}
+**********2024-10-24T12:47:09.035Z**********
+Path = /api/user/getUsers
+{"response":{"message":"Unauthorized","statusCode":401},"status":401,"options":{},"message":"Unauthorized","name":"UnauthorizedException"}
+**********2024-10-24T12:47:32.166Z**********
+Path = /api/user/getUsers
+{"response":{"message":"Unauthorized","statusCode":401},"status":401,"options":{},"message":"Unauthorized","name":"UnauthorizedException"}
+**********2024-10-24T12:47:51.046Z**********
+Path = /api/user/getUsers
+{"response":{"message":"Unauthorized","statusCode":401},"status":401,"options":{},"message":"Unauthorized","name":"UnauthorizedException"}
+**********2024-10-24T12:49:15.589Z**********
+Path = /api/user/getUsers
+{"response":{"message":"Unauthorized","statusCode":401},"status":401,"options":{},"message":"Unauthorized","name":"UnauthorizedException"}
+**********2024-10-24T12:49:23.861Z**********
+Path = /api/user/getUsers
+{"response":{"message":"Unauthorized","statusCode":401},"status":401,"options":{},"message":"Unauthorized","name":"UnauthorizedException"}
+**********2024-10-24T12:49:36.718Z**********
+Path = /api/user/getUsers
+{"response":{"message":"Unauthorized","statusCode":401},"status":401,"options":{},"message":"Unauthorized","name":"UnauthorizedException"}
+**********2024-10-24T12:49:44.654Z**********
+Path = /api/user/getUsers
+{"response":{"message":"Unauthorized","statusCode":401},"status":401,"options":{},"message":"Unauthorized","name":"UnauthorizedException"}
+**********2024-10-24T12:49:54.738Z**********
+Path = /api/user/getUsers
+{"response":{"message":"Unauthorized","statusCode":401},"status":401,"options":{},"message":"Unauthorized","name":"UnauthorizedException"}
+**********2024-10-24T12:49:59.632Z**********
+Path = /api/user/getUsers
+{"response":{"message":"Unauthorized","statusCode":401},"status":401,"options":{},"message":"Unauthorized","name":"UnauthorizedException"}
+**********2024-10-24T12:50:03.024Z**********
+Path = /api/user/getUsers
+{"response":{"message":"Unauthorized","statusCode":401},"status":401,"options":{},"message":"Unauthorized","name":"UnauthorizedException"}
+**********2024-10-24T12:50:19.573Z**********
+Path = /api/auth/login
+{"response":{"message":["username must be an email","username should not be empty","username must be longer than or equal to 6 characters"],"error":"Bad Request","statusCode":400},"status":400,"options":{},"message":"Bad Request Exception","name":"BadRequestException"}
+**********2024-10-24T12:50:19.716Z**********
+Path = /api/user/getUsers
+{"response":{"message":"Unauthorized","statusCode":401},"status":401,"options":{},"message":"Unauthorized","name":"UnauthorizedException"}
+**********2024-10-24T12:50:43.902Z**********
+Path = /api/auth/login
+{"response":{"message":["username must be an email","username should not be empty","username must be longer than or equal to 6 characters"],"error":"Bad Request","statusCode":400},"status":400,"options":{},"message":"Bad Request Exception","name":"BadRequestException"}
+**********2024-10-24T12:50:44.009Z**********
+Path = /api/user/getUsers
+{"response":{"message":"Unauthorized","statusCode":401},"status":401,"options":{},"message":"Unauthorized","name":"UnauthorizedException"}
+**********2024-10-24T12:51:19.404Z**********
+Path = /api/user/getUsers
+{"response":{"message":"Unauthorized","statusCode":401},"status":401,"options":{},"message":"Unauthorized","name":"UnauthorizedException"}
+**********2024-10-24T12:52:24.209Z**********
+Path = /api/user/getUsers
+{"response":{"message":"Unauthorized","statusCode":401},"status":401,"options":{},"message":"Unauthorized","name":"UnauthorizedException"}
+**********2024-10-24T12:52:52.391Z**********
+Path = /api/user/getUsers
+{"response":{"message":"Unauthorized","statusCode":401},"status":401,"options":{},"message":"Unauthorized","name":"UnauthorizedException"}
+**********2024-10-24T12:53:02.547Z**********
+Path = /api/user/getUsers
+{"response":{"message":"Unauthorized","statusCode":401},"status":401,"options":{},"message":"Unauthorized","name":"UnauthorizedException"}
+**********2024-10-24T12:53:14.259Z**********
+Path = /api/user/getUsers
+{"response":{"message":"Unauthorized","statusCode":401},"status":401,"options":{},"message":"Unauthorized","name":"UnauthorizedException"}
+**********2024-10-24T12:53:16.779Z**********
+Path = /api/user/getUsers
+{"response":{"message":"Unauthorized","statusCode":401},"status":401,"options":{},"message":"Unauthorized","name":"UnauthorizedException"}
+**********2024-10-24T12:53:20.526Z**********
+Path = /api/user/getUsers
+{"response":{"message":"Unauthorized","statusCode":401},"status":401,"options":{},"message":"Unauthorized","name":"UnauthorizedException"}
+**********2024-10-24T12:53:23.201Z**********
+Path = /api/user/getUsers
+{"response":{"message":"Unauthorized","statusCode":401},"status":401,"options":{},"message":"Unauthorized","name":"UnauthorizedException"}
+**********2024-10-24T12:53:24.793Z**********
+Path = /api/user/getUsers
+{"response":{"message":"Unauthorized","statusCode":401},"status":401,"options":{},"message":"Unauthorized","name":"UnauthorizedException"}
+**********2024-10-24T12:53:29.687Z**********
+Path = /api/user/getUsers
+{"response":{"message":"Unauthorized","statusCode":401},"status":401,"options":{},"message":"Unauthorized","name":"UnauthorizedException"}
+**********2024-10-24T12:53:40.004Z**********
+Path = /api/user/getUsers
+{"response":{"message":"Unauthorized","statusCode":401},"status":401,"options":{},"message":"Unauthorized","name":"UnauthorizedException"}
+**********2024-10-24T12:53:49.995Z**********
+Path = /api/user/getUsers
+{"response":{"message":"Unauthorized","statusCode":401},"status":401,"options":{},"message":"Unauthorized","name":"UnauthorizedException"}
+**********2024-10-24T12:54:29.519Z**********
+Path = /api/auth/login
+{"response":{"response":{"message":"Invalid Credentials","error":"Conflict","statusCode":409},"status":409,"options":{},"message":"Invalid Credentials","name":"ConflictException"},"status":400,"options":{},"message":"Invalid Credentials","name":"BadRequestException"}
+**********2024-10-24T12:54:29.598Z**********
+Path = /api/user/getUsers
+{"response":{"message":"Unauthorized","statusCode":401},"status":401,"options":{},"message":"Unauthorized","name":"UnauthorizedException"}
+**********2024-10-24T12:55:00.547Z**********
+Path = /api/user/getUsers
+{"response":{"message":"Unauthorized","statusCode":401},"status":401,"options":{},"message":"Unauthorized","name":"UnauthorizedException"}
+**********2024-10-24T12:56:16.679Z**********
+Path = /api/user/getUsers
+{"response":{"message":"Unauthorized","statusCode":401},"status":401,"options":{},"message":"Unauthorized","name":"UnauthorizedException"}
+**********2024-10-24T12:56:34.527Z**********
+Path = /api/user/getUsers
+{"response":{"message":"Unauthorized","statusCode":401},"status":401,"options":{},"message":"Unauthorized","name":"UnauthorizedException"}
+**********2024-10-24T12:56:39.404Z**********
+Path = /api/user/getUsers
+{"response":{"message":"Unauthorized","statusCode":401},"status":401,"options":{},"message":"Unauthorized","name":"UnauthorizedException"}
+**********2024-10-24T12:56:41.630Z**********
+Path = /api/user/getUsers
+{"response":{"message":"Unauthorized","statusCode":401},"status":401,"options":{},"message":"Unauthorized","name":"UnauthorizedException"}
+**********2024-10-24T12:56:44.877Z**********
+Path = /api/user/getUsers
+{"response":{"message":"Unauthorized","statusCode":401},"status":401,"options":{},"message":"Unauthorized","name":"UnauthorizedException"}
+**********2024-10-24T12:56:46.575Z**********
+Path = /api/user/getUsers
+{"response":{"message":"Unauthorized","statusCode":401},"status":401,"options":{},"message":"Unauthorized","name":"UnauthorizedException"}
+**********2024-10-24T13:00:30.541Z**********
+Path = /api/user/deleteUsers/undefined
+{"response":{"response":{"stringValue":"\"{ _id: 'undefined' }\"","valueType":"Object","kind":"ObjectId","value":{"_id":"undefined"},"path":"_id","reason":{},"name":"CastError","message":"Cast to ObjectId failed for value \"{ _id: 'undefined' }\" (type Object) at path \"_id\" for model \"User\""},"status":500,"options":{},"message":"Cast to ObjectId failed for value \"{ _id: 'undefined' }\" (type Object) at path \"_id\" for model \"User\"","name":"InternalServerErrorException"},"status":400,"options":{},"message":"Cast to ObjectId failed for value \"{ _id: 'undefined' }\" (type Object) at path \"_id\" for model \"User\"","name":"BadRequestException"}
+**********2024-10-24T13:00:31.775Z**********
+Path = /api/user/deleteUsers/undefined
+{"response":{"response":{"stringValue":"\"{ _id: 'undefined' }\"","valueType":"Object","kind":"ObjectId","value":{"_id":"undefined"},"path":"_id","reason":{},"name":"CastError","message":"Cast to ObjectId failed for value \"{ _id: 'undefined' }\" (type Object) at path \"_id\" for model \"User\""},"status":500,"options":{},"message":"Cast to ObjectId failed for value \"{ _id: 'undefined' }\" (type Object) at path \"_id\" for model \"User\"","name":"InternalServerErrorException"},"status":400,"options":{},"message":"Cast to ObjectId failed for value \"{ _id: 'undefined' }\" (type Object) at path \"_id\" for model \"User\"","name":"BadRequestException"}
+**********2024-10-24T13:00:32.072Z**********
+Path = /api/user/deleteUsers/undefined
+{"response":{"response":{"stringValue":"\"{ _id: 'undefined' }\"","valueType":"Object","kind":"ObjectId","value":{"_id":"undefined"},"path":"_id","reason":{},"name":"CastError","message":"Cast to ObjectId failed for value \"{ _id: 'undefined' }\" (type Object) at path \"_id\" for model \"User\""},"status":500,"options":{},"message":"Cast to ObjectId failed for value \"{ _id: 'undefined' }\" (type Object) at path \"_id\" for model \"User\"","name":"InternalServerErrorException"},"status":400,"options":{},"message":"Cast to ObjectId failed for value \"{ _id: 'undefined' }\" (type Object) at path \"_id\" for model \"User\"","name":"BadRequestException"}
+**********2024-10-24T13:00:32.826Z**********
+Path = /api/user/deleteUsers/undefined
+{"response":{"response":{"stringValue":"\"{ _id: 'undefined' }\"","valueType":"Object","kind":"ObjectId","value":{"_id":"undefined"},"path":"_id","reason":{},"name":"CastError","message":"Cast to ObjectId failed for value \"{ _id: 'undefined' }\" (type Object) at path \"_id\" for model \"User\""},"status":500,"options":{},"message":"Cast to ObjectId failed for value \"{ _id: 'undefined' }\" (type Object) at path \"_id\" for model \"User\"","name":"InternalServerErrorException"},"status":400,"options":{},"message":"Cast to ObjectId failed for value \"{ _id: 'undefined' }\" (type Object) at path \"_id\" for model \"User\"","name":"BadRequestException"}
+**********2024-10-24T13:00:33.074Z**********
+Path = /api/user/deleteUsers/undefined
+{"response":{"response":{"stringValue":"\"{ _id: 'undefined' }\"","valueType":"Object","kind":"ObjectId","value":{"_id":"undefined"},"path":"_id","reason":{},"name":"CastError","message":"Cast to ObjectId failed for value \"{ _id: 'undefined' }\" (type Object) at path \"_id\" for model \"User\""},"status":500,"options":{},"message":"Cast to ObjectId failed for value \"{ _id: 'undefined' }\" (type Object) at path \"_id\" for model \"User\"","name":"InternalServerErrorException"},"status":400,"options":{},"message":"Cast to ObjectId failed for value \"{ _id: 'undefined' }\" (type Object) at path \"_id\" for model \"User\"","name":"BadRequestException"}
+**********2024-10-24T13:01:31.772Z**********
+Path = /api/user/deleteUsers/undefined
+{"response":{"response":{"stringValue":"\"{ _id: 'undefined' }\"","valueType":"Object","kind":"ObjectId","value":{"_id":"undefined"},"path":"_id","reason":{},"name":"CastError","message":"Cast to ObjectId failed for value \"{ _id: 'undefined' }\" (type Object) at path \"_id\" for model \"User\""},"status":500,"options":{},"message":"Cast to ObjectId failed for value \"{ _id: 'undefined' }\" (type Object) at path \"_id\" for model \"User\"","name":"InternalServerErrorException"},"status":400,"options":{},"message":"Cast to ObjectId failed for value \"{ _id: 'undefined' }\" (type Object) at path \"_id\" for model \"User\"","name":"BadRequestException"}
